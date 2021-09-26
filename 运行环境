@@ -1,0 +1,8 @@
+代码环境：
+
+服务器GPU：用于15万张图片大型训练，以及完整YOLOv3模型解冻。训练1个epoch需要22小时，我总共训练了3个epoch。
+python == 3.8
+tensorflow == 2.4.1
+keras == 2.4.3 
+opencv-python == 4.5.3.56
+
